@@ -1,0 +1,22 @@
+.con {
+  margin-top: 3%;
+}
+.inp {
+  display: inline;
+  width: 20%;
+}
+.add {
+  margin-left: 40px;
+  width: 8%;
+}
+.lis {
+  margin-top: 20px;
+}
+
+.search {
+  display: block;
+  margin-inline-start: 80%;
+  border: 2px solid green;
+  border-radius: 10px;
+  padding: 6px;
+}
